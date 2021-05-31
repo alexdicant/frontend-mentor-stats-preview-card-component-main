@@ -93,7 +93,7 @@ p {
 .card-picture {
   height: 400px;
   width: 50%;
-  background: url('https:alexdicant.com/dev-images/image-header-desktop.jpg')
+  background: url('https://alexdicant.com/dev-images/image-header-desktop.jpg')
     no-repeat center/cover;
   border-radius: 0 10px 10px 0;
 }
@@ -168,7 +168,7 @@ p {
     height: 30%;
     width: 100%;
     border-radius: 10px 10px 0 0;
-    background: url('https:alexdicant.com/dev-images/image-header-mobile.jpg')
+    background: url('https://alexdicant.com/dev-images/image-header-mobile.jpg')
       no-repeat center/cover;
   }
   .card-picture--overlay {
